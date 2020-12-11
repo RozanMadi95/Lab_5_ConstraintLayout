@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="tv_hed"> Registration Form</string>
+    <string name="tv_flln"> Fll Name</string>
+    <string name="tv_id">ID Number</string>
+    <string name="tv_address">Address</string>
+    <string name="tv_mobil">Mobil</string>
+    <string name="btn_reg">Register</string>
+    <string name="btn_clear_form">Clear </string>
+    <string name="done">Correctly Register</string>
+</resources>

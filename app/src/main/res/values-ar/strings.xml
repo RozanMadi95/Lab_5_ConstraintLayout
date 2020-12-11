@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="tv_hed"> نموذج تسجيل</string>
+    <string name="tv_flln"> الاسم كامل</string>
+    <string name="tv_id">رقم الهوية</string>
+    <string name="tv_address">العنوان</string>
+    <string name="tv_mobil">الهاتف</string>
+    <string name="btn_reg">تسجيل</string>
+    <string name="btn_clear_form">إلغاء</string>
+    <string name="done">تم التسجيل بنجاح </string>
+</resources>
